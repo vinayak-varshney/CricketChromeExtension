@@ -1,9 +1,9 @@
 {
-    "name": "My Chrome Extension",
+    "name": "Cricket Chrome Extension",
     "version": "1.0.0",
     "description": "A cool extension for Cricket Lovers",
     "manifest_version": 3,
-    "author": "Vinayak Varshney",
+    "author": "Vinayak",
     "action": {
         "default_popup": "index.html",
         "default_title": "My Chrome Extension"
