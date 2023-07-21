@@ -2,7 +2,9 @@ body{
     display: flex;
     flex-direction: column;
     width: 300px;
-    background-color: #8BC6EC;
+    color: white;
+    font-weight: bolder;
+    background-color: rgb(6 182 212);
 }
 li,p{
     color: black;
